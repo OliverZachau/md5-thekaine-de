@@ -1,0 +1,3 @@
+MD5 Hash reverse based on various online services.
+Its here only for new ppl to learn from it or to get some ideas i have stopped updating it a while ago.
+I wanted to show with this how easy it is to get a reverse from a given md5 hash and ended up even having to cache results because the whole business is connected to each other. Meaning when i send a request out to get a md5 has most likely they will start asking me as well for it.
